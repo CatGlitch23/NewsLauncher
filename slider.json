@@ -1,0 +1,26 @@
+[
+  {
+    "text": "🎮 Únete a Discord",
+    "image": "assets/images/slide1.png"
+  },
+  {
+    "text": "📰 Noticias del launcher",
+    "image": "assets/images/slide2.png"
+  },
+  {
+    "text": "⚙️ Actualizaciones recientes",
+    "image": "assets/images/slide3.png"
+  },
+  {
+    "text": "📦 Nuevos modpacks",
+    "image": "assets/images/slide4.png"
+  },
+  {
+    "text": "🎉 Eventos especiales",
+    "image": "assets/images/slide5.png"
+  },
+  {
+    "text": "🔧 Soporte técnico",
+    "image": "assets/images/slide6.png"
+  }
+]
