@@ -1,7 +1,7 @@
 [
   {  "image": "assets/images/slide1.png", "url": "https://discord.gg/tuservidor" },
   { "image": "assets/images/slide2.png", "url": "https://tusitio.com/noticias" },
-  { "text": "⚙️ Noticias recientes \n Actualmente esta es una verson Beta" },
+  { "text": "⚙️ Noticias recientes \n \n Actualmente esta es una verson Beta" },
   { "image": "assets/images/slide3.png" },
-  { "text": "🎉 Eventos especiales \n En desarrollo..." }
+  { "text": "🎉 Eventos especiales \n \n En desarrollo..." }
 ]
