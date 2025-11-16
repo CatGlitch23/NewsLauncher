@@ -1,8 +1,7 @@
 [
-  { "text": "🎮 Únete a Discord", "image": "assets/images/slide1.png" },
-  { "text": "📰 Noticias del launcher", "image": "assets/images/slide2.png" },
-  { "text": "⚙️ Actualizaciones recientes", "image": "assets/images/slide3.png" },
-  { "text": "📦 Nuevos modpacks", "image": "assets/images/slide4.png" },
-  { "text": "🎉 Eventos especiales", "image": "assets/images/slide5.png" },
-  { "text": "🔧 Soporte técnico", "image": "assets/images/slide6.png" }
+  { "text": "🎮 Únete a Discord", "image": "assets/images/slide1.png", "url": "https://discord.gg/tuservidor" },
+  { "text": "📰 Noticias del launcher", "image": "assets/images/slide2.png", "url": "https://tusitio.com/noticias" },
+  { "text": "⚙️ Noticias recientes \n Actualmente esta es una verson Beta" },
+  { "text": "📦 Estado del servidor", "image": "assets/images/slide3.png" },
+  { "text": "🎉 Eventos especiales \n En desarrollo..." }
 ]
