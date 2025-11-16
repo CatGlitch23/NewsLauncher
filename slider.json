@@ -1,7 +1,7 @@
 [
-  { "text": "🎮 Únete a Discord", "image": "assets/images/slide1.png", "url": "https://discord.gg/tuservidor" },
-  { "text": "📰 Noticias del launcher", "image": "assets/images/slide2.png", "url": "https://tusitio.com/noticias" },
+  {  "image": "assets/images/slide1.png", "url": "https://discord.gg/tuservidor" },
+  { "image": "assets/images/slide2.png", "url": "https://tusitio.com/noticias" },
   { "text": "⚙️ Noticias recientes \n Actualmente esta es una verson Beta" },
-  { "text": "📦 Estado del servidor", "image": "assets/images/slide3.png" },
+  { "image": "assets/images/slide3.png" },
   { "text": "🎉 Eventos especiales \n En desarrollo..." }
 ]
