@@ -1,7 +1,7 @@
 [
-  {  "image": "assets/images/slide1.png", "url": "https://discord.gg/tuservidor" },
-  { "image": "assets/images/slide2.png", "url": "https://tusitio.com/noticias" },
-  { "text": "⚙️ Noticias recientes \n \n Actualmente esta es una verson Beta \n \n \n \n \n \n" },
+  {  "image": "assets/images/slide1.png" },
+  { "image": "assets/images/slide2.png", "url": "https://discord.com/channels/1445839441099751459/1445850559947997236" },
+  { "text": "⚙️ Noticias recientes \n \n Bienvenid@ al Launcher Glitch \n \n \n \n \n \n" },
   { "image": "assets/images/slide3.png" },
   { "text": "🎉 Eventos especiales \n \n En desarrollo... \n \n \n \n \n \n" }
 ]
